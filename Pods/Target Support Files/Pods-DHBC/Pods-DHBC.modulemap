@@ -1,0 +1,6 @@
+framework module Pods_DHBC {
+  umbrella header "Pods-DHBC-umbrella.h"
+
+  export *
+  module * { export * }
+}

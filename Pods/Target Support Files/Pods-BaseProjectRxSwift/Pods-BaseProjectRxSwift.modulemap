@@ -1,6 +1,0 @@
-framework module Pods_BaseProjectRxSwift {
-  umbrella header "Pods-BaseProjectRxSwift-umbrella.h"
-
-  export *
-  module * { export * }
-}
